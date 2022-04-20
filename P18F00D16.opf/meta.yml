@@ -1,0 +1,35 @@
+id: P18F00D16
+initial_creation_type: ocr
+source_metadata:
+  id: bdr:W3CN21540
+  title: གྲགས་ཆེན་བཅོ་བརྒྱད། ༼༡-༧༽
+  volumes:
+    082402ebf8b6413a8db02718e8d59b8f:
+      image_group_id: I3CN21757
+      title: ''
+      base_file: v001.txt
+    edba1d76259b48cf9c722f0dbb7a0745:
+      image_group_id: I3CN21758
+      title: ''
+      base_file: v002.txt
+    af2e2d145fd04edda6a9caf5f8d44b50:
+      image_group_id: I3CN21759
+      title: ''
+      base_file: v003.txt
+    42d8767e541449d7bfa45754ca3ddcf7:
+      image_group_id: I3CN21760
+      title: ''
+      base_file: v004.txt
+    7820c159eaeb4b20a64a80103154990e:
+      image_group_id: I3CN21761
+      title: ''
+      base_file: v005.txt
+    e3ce912798604273940b1c9c1e4d0483:
+      image_group_id: I3CN21762
+      title: ''
+      base_file: v006.txt
+    fd8cf475d0734068956f8df9ee33788e:
+      image_group_id: I3CN21763
+      title: ''
+      base_file: v007.txt
+  author: ''
